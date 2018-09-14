@@ -14,6 +14,6 @@
 	$ ./bitrix
 
 Список доступных команд "из коробки":
-- [orm:annotate](/R&D/50_bitrix_dev/10_orm/90_annotate.md)
+- [orm:annotate](90_annotate.md)
 
 Добавление своих команд планируется реализовать в ближайшее время.
